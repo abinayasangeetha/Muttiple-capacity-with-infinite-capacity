@@ -22,6 +22,16 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 ![Screenshot 2023-05-25 105350](https://github.com/naveenaakumarasamy/Muttiple-capacity-with-infinite-capacity/assets/113497406/b1c3bde2-3fa4-4fec-ac9f-095f5fbf27bc)
 
 
+
+
+
+
+
+
+
+
+
+
 ## Program :
 ```
 # Developed by: ABINAYA S
